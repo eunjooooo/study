@@ -7,4 +7,3 @@ def a_finc(a):
 
 if __name__ == "__main__":
     print("hello")
-kkk
