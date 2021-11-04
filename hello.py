@@ -7,4 +7,4 @@ def a_finc(a):
 
 if __name__ == "__main__":
     print("hello")
-jhkjhkjh
+    print(a_finc(1))
